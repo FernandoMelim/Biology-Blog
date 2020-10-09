@@ -8,6 +8,7 @@
     <SpaRoot>biologyblog-frontend\</SpaRoot>
     <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
     <RootNamespace>Biology_Blog</RootNamespace>
+    <UserSecretsId>79604288-0ebc-4f79-9ffd-8390f3b3bf64</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
